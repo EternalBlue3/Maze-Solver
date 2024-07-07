@@ -6,9 +6,9 @@ This is a simple maze generation and solving algorithm built with a pygame inter
 
 I implemented four different maze generation algorithms and one solving algorithm:
 - Generating
--   Kruskal's
--   Depth First Search (Recursive Backtracker)
--   Hunt And Kill
--   Eller's
+  - Kruskal's
+  - Depth First Search (Recursive Backtracker)
+  - Hunt And Kill
+  - Eller's
 - Solving
--   A*
+  - A*
